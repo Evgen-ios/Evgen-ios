@@ -4,4 +4,4 @@
 - 📫 How to reach me **jack38irk@icloud.com**
 - 🌍 I speak Russian (native), English (B1)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Evgen-ios&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats&theme=blue-green)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Evgen-ios&theme=blue-green)](https://git.io/streak-stats)
