@@ -2,6 +2,5 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 - 📫 How to reach me **jack38irk@icloud.com**
-- 🌍 I speak Russian (native), English (B1)
-
+- 
   [![GitHub Streak](https://streak-stats.demolab.com?user=Evgen-ios&theme=blue-green)](https://git.io/streak-stats)
