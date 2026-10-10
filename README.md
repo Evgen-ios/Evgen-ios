@@ -1,29 +1,37 @@
-# Привет, я Евгений 👋
+# AI Engineer · Специалист по внедрению ИИ
 
-**iOS-разработчик** — 4+ года коммерческой разработки: соцсети, чаты и реалтайм, e-commerce, корпоративные продукты.
+**LLM · RAG · Python · FastAPI · интеграции AI-сервисов · автоматизация процессов**
 
-## Чем занимаюсь
+Разрабатываю прикладные AI-решения: от интеграции языковых моделей и поиска по базе знаний до безопасной обработки запросов с передачей сложных случаев человеку. Интересуют задачи, где ИИ помогает упростить реальные рабочие процессы и при этом остаётся проверяемым и управляемым.
 
-🚀 **Производительные ленты и списки** — UICollectionView + DiffableDataSource + Compositional Layout
+## Практика с LLM и RAG
 
-💬 **Чаты и реалтайм** — WebSocket, APNs, голосовые сообщения (AVFoundation), HLS-стриминг видео
+Разработал и развернул AI-ассистента для обработки обращений. В решении реализованы:
 
-🏗 **Архитектура** — MVVM + Coordinator, многомодульные проекты, DI, SPM
+- Интеграции с Gemini, Claude и OpenAI API
+- RAG-поиск похожих обращений на локальных эмбеддингах
+- Оценка уверенности ответа и защитные проверки
+- Передача оператору запросов, требующих дополнительной проверки
+- Автоматическая обработка только при уверенности от 82%
+- Backend на Python и FastAPI; SQLite, SQLAlchemy, Docker
+- 246 автотестов; развёртывание на VPS
 
-## Стек
+## Чем могу быть полезен
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=swift&logoColor=white)
+- Интегрировать LLM в существующие сервисы через API
+- Создать AI-ассистента для работы с обращениями и базой знаний
+- Реализовать RAG-поиск и связать его с прикладным сценарием
+- Продумать проверки ответа и передачу нестандартных случаев человеку
+- Разработать backend-сервис и подготовить его к развёртыванию
 
-Swift · UIKit · SwiftUI · Combine · async/await · MVVM-C · CoreData · Realm · WebSocket · Moya · SnapKit · Unit/UI-тесты · SPM
+## Инструменты
 
-## Проекты
+**AI и backend:** Python, FastAPI, LLM, RAG, OpenAI API, Gemini API, Claude API, Telegram Bot API, SQLAlchemy, SQLite, Docker, Pytest
 
-🍔 [**MarketPlace**](https://github.com/Evgen-ios/MarketPlace) — приложение доставки еды: каталог, корзина, заказы
+## Опыт разработки
 
-👗 [**Outfit-Selection**](https://github.com/Evgen-ios/Outfit-Selection) — open-source приложение Get Outfit, участвовал в коммерческой разработке
-
-🎬 [**VideoFeed**](https://github.com/Evgen-ios/VideoFeed) — видео-лента с плавным скроллом и детальными экранами
+4+ года коммерческой **iOS-разработки**: Swift, UIKit, SwiftUI, проектирование архитектуры, интеграции API, тестирование и выпуск production-приложений. Этот опыт помогает быстро разбираться в существующих системах и доводить интеграции до релиза. Снизил количество зависаний интерфейса на 40% по данным Sentry и интегрировал 20+ API-эндпоинтов. Сейчас развиваюсь в направлении прикладного AI и внедрения ИИ.
 
 ## Контакты
 
-🌍 Работаю удалённо · ✈️ [Telegram](https://t.me/sp_jack) · 💼 [LinkedIn](https://www.linkedin.com/in/evgeny-goncharov) · 📫 goncharovirk38@gmail.com
+[Telegram](https://t.me/sp_jack) · [LinkedIn](https://www.linkedin.com/in/evgeny-goncharov) · [Email](mailto:goncharovirk38@gmail.com)
